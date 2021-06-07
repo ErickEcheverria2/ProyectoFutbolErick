@@ -1,0 +1,116 @@
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe.config
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\bin\Debug\Administracion_Torneos.pdb
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.exe
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.pdb
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.csprojAssemblyReference.cache
+C:\Users\albin\OneDrive\Escritorio\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\albin\Desktop\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe.config
+C:\Users\albin\Desktop\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe
+C:\Users\albin\Desktop\Administracion_Torneos\bin\Debug\Administracion_Torneos.pdb
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Amonestacion.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.controlgoles.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePartidosAfectados.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewCambio.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.exe
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.pdb
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.csprojAssemblyReference.cache
+C:\Users\albin\Desktop\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Tarjetas.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe.config
+C:\Users\rcast\Downloads\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe
+C:\Users\rcast\Downloads\Administracion_Torneos\bin\Debug\Administracion_Torneos.pdb
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.csprojAssemblyReference.cache
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Amonestacion.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.controlgoles.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePartidosAfectados.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Tarjetas.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewCambio.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.exe
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.pdb
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaControlArbitro.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Reportes.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReporteCanchas.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPagoAmonestacion.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePlanillaArbitro.resources
+C:\Users\rcast\Downloads\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReporteEstadisticasEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe.config
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\bin\Debug\Administracion_Torneos.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\bin\Debug\Administracion_Torneos.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.csprojAssemblyReference.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Amonestacion.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.controlgoles.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReporteCanchas.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePartidosAfectados.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePlanillaArbitro.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Reportes.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReporteEstadisticasEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Tarjetas.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewCambio.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPagoAmonestacion.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaControlArbitro.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.exe
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.AlquilarCancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.InformacionEmpresa.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ServicioArbitraje.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.UsuarioSistema.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VentanaLogin.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoDeAlquilerCancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoServicioDeArbitraje.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_BitacoraDeAcceso.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_DisponibilidadCancha.resources
