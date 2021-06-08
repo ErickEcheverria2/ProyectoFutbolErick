@@ -114,4 +114,47 @@ C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\ob
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoServicioDeArbitraje.resources
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_BitacoraDeAcceso.resources
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_DisponibilidadCancha.resources
+<<<<<<< HEAD
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListadiArbitros.resources
+=======
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.csprojAssemblyReference.cache
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.AlquilarCancha.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Amonestacion.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Consulta_BitacoraDeAcceso.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Consulta_DisponibilidadCancha.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoDeAlquilerCancha.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoServicioDeArbitraje.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.controlgoles.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.InformacionEmpresa.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.listaJugadores.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ReporteCanchas.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ReportePartidosAfectados.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ReportePlanillaArbitro.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Reportes.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ReporteEstadisticasEquipo.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ServicioArbitraje.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.Tarjetas.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.UsuarioSistema.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.VentanaLogin.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewCambio.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewPagoAmonestacion.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.Vista.VistaControlArbitro.resources
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.exe
+C:\Users\devas\Desktop\Proyecto Erick\ProyectoFutbolErick\obj\Debug\Administracion_Torneos.pdb
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.listaJugadores.resources
+>>>>>>> ramaDebora

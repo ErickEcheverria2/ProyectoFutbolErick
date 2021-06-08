@@ -201,5 +201,10 @@ namespace Administracion_Torneos.Vista
         {
             this.Dispose();
         }
+
+        private void jugadorescrud_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
