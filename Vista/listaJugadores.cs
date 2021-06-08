@@ -24,6 +24,8 @@ namespace Administracion_Torneos.Vista
             listjugadores.AllowUserToDeleteRows = false;
             listjugadores.MultiSelect = false;
             listjugadores.ReadOnly = true;
+
+            mostrar_jugadores_datagrid();
         }
 
         public void mostrar_jugadores_datagrid()
