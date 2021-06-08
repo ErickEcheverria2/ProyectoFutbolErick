@@ -180,7 +180,7 @@ namespace Administracion_Torneos.Vista
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(85, 64);
             this.button5.TabIndex = 12;
-            this.button5.Text = "Reporte Debora";
+            this.button5.Text = "Listado de Jugadores";
             this.button5.UseVisualStyleBackColor = false;
             // 
             // Reportes

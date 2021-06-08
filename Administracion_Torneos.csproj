@@ -59,6 +59,7 @@
     <Compile Include="BD\GolesDB.cs" />
     <Compile Include="BD\InformacionEmpresaDB.cs" />
     <Compile Include="BD\jugadorBD.cs" />
+    <Compile Include="BD\listaJugadoresDB.cs" />
     <Compile Include="BD\PagoAmonestacionDB.cs" />
     <Compile Include="BD\Posicion_JugadorDB.cs" />
     <Compile Include="BD\reporteCanchaDB.cs" />
@@ -81,6 +82,7 @@
     <Compile Include="Modelo\goles.cs" />
     <Compile Include="Modelo\InformacionEmpresa.cs" />
     <Compile Include="Modelo\jugador.cs" />
+    <Compile Include="Modelo\listaJugadores.cs" />
     <Compile Include="Modelo\partidos.cs" />
     <Compile Include="BD\partidosDB.cs" />
     <Compile Include="BD\PunteoDB.cs" />
@@ -164,6 +166,12 @@
     </Compile>
     <Compile Include="Vista\ListaEquipo.Designer.cs">
       <DependentUpon>ListaEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\listaJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\listaJugadores.Designer.cs">
+      <DependentUpon>listaJugadores.cs</DependentUpon>
     </Compile>
     <Compile Include="Vista\Menucontrol.cs">
       <SubType>Form</SubType>
@@ -333,6 +341,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ListaEquipo.resx">
       <DependentUpon>ListaEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\listaJugadores.resx">
+      <DependentUpon>listaJugadores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\Menucontrol.resx">
       <DependentUpon>Menucontrol.cs</DependentUpon>

@@ -56,7 +56,7 @@ namespace Administracion_Torneos.Vista
             if (x == 0) //
             {
                 MessageBox.Show("Conexion exitosa , pero la tabla buscada no tiene datos");
-                editar.Enabled = false;
+                edi tar.Enabled = false;
                eliminar.Enabled = false;
             }
             else
@@ -200,6 +200,11 @@ namespace Administracion_Torneos.Vista
         private void jugadorescrud_FormClosing(object sender, FormClosingEventArgs e)
         {
             this.Dispose();
+        }
+
+        private void jugadorescrud_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
