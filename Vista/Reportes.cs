@@ -80,5 +80,11 @@ namespace Administracion_Torneos.Vista
             Consulta_DisponibilidadCancha consulta = new Consulta_DisponibilidadCancha();
             consulta.ShowDialog();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ListadiArbitros consulta = new ListadiArbitros();
+            consulta.ShowDialog();
+        }
     }
 }

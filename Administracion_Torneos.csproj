@@ -159,6 +159,12 @@
     <Compile Include="Vista\jugadorescrud.Designer.cs">
       <DependentUpon>jugadorescrud.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\ListadiArbitros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\ListadiArbitros.Designer.cs">
+      <DependentUpon>ListadiArbitros.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\ListaEquipo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -330,6 +336,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\jugadorescrud.resx">
       <DependentUpon>jugadorescrud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\ListadiArbitros.resx">
+      <DependentUpon>ListadiArbitros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ListaEquipo.resx">
       <DependentUpon>ListaEquipo.cs</DependentUpon>

@@ -41,6 +41,7 @@ namespace Administracion_Torneos.Vista
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnUno
@@ -139,7 +140,7 @@ namespace Administracion_Torneos.Vista
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.button1.Location = new System.Drawing.Point(65, 415);
+            this.button1.Location = new System.Drawing.Point(65, 253);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 79);
@@ -151,7 +152,7 @@ namespace Administracion_Torneos.Vista
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.button2.Location = new System.Drawing.Point(211, 415);
+            this.button2.Location = new System.Drawing.Point(211, 253);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 79);
@@ -163,7 +164,7 @@ namespace Administracion_Torneos.Vista
             // button3
             // 
             this.button3.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.button3.Location = new System.Drawing.Point(357, 415);
+            this.button3.Location = new System.Drawing.Point(357, 253);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 79);
@@ -175,7 +176,7 @@ namespace Administracion_Torneos.Vista
             // button4
             // 
             this.button4.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.button4.Location = new System.Drawing.Point(503, 415);
+            this.button4.Location = new System.Drawing.Point(503, 253);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(113, 79);
@@ -184,12 +185,25 @@ namespace Administracion_Torneos.Vista
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.button5.Location = new System.Drawing.Point(65, 357);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(113, 79);
+            this.button5.TabIndex = 12;
+            this.button5.Text = "Reporte Erick";
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // Reportes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(658, 507);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -226,5 +240,6 @@ namespace Administracion_Torneos.Vista
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }

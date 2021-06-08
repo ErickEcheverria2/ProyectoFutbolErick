@@ -114,3 +114,4 @@ C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\ob
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_IngresoServicioDeArbitraje.resources
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_BitacoraDeAcceso.resources
 C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Consulta_DisponibilidadCancha.resources
+C:\Users\Erick Echeverría\Desktop\Proyecto Equipo No1\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ListadiArbitros.resources
