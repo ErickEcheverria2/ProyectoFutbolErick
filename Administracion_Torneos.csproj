@@ -297,6 +297,12 @@
     <Compile Include="Vista\VistaControlArbitro.Designer.cs">
       <DependentUpon>VistaControlArbitro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\vistaReporteRobertoEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\vistaReporteRobertoEquipos.Designer.cs">
+      <DependentUpon>vistaReporteRobertoEquipos.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -405,6 +411,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\VistaControlArbitro.resx">
       <DependentUpon>VistaControlArbitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\vistaReporteRobertoEquipos.resx">
+      <DependentUpon>vistaReporteRobertoEquipos.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
