@@ -86,5 +86,11 @@ namespace Administracion_Torneos.Vista
             ListadiArbitros consulta = new ListadiArbitros();
             consulta.ShowDialog();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            vistaReporteRobertoEquipos consulta = new vistaReporteRobertoEquipos();
+            consulta.ShowDialog();
+        }
     }
 }
