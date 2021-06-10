@@ -89,8 +89,14 @@ namespace Administracion_Torneos.Vista
 
         private void button6_Click(object sender, EventArgs e)
         {
-            ListadiArbitros listadiArbitros = new ListadiArbitros();
-            listadiArbitros.ShowDialog();
+            vistaReporteRobertoEquipos consulta = new vistaReporteRobertoEquipos();
+            consulta.ShowDialog();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            ListadiArbitros consulta = new ListadiArbitros();
+            consulta.ShowDialog();
         }
     }
 }

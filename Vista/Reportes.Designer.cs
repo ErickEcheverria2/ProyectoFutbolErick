@@ -43,6 +43,7 @@ namespace Administracion_Torneos.Vista
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnUno
@@ -194,28 +195,41 @@ namespace Administracion_Torneos.Vista
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(113, 79);
             this.button5.TabIndex = 12;
-            this.button5.Text = "Listado de Jugadores";
+            this.button5.Text = "Reporte Jugadores";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
             this.button6.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.button6.Location = new System.Drawing.Point(211, 436);
+            this.button6.Location = new System.Drawing.Point(198, 437);
             this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(113, 79);
             this.button6.TabIndex = 13;
-            this.button6.Text = "Listado de Jugadores";
+            this.button6.Text = "Reporte Equipos";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.button7.Location = new System.Drawing.Point(344, 436);
+            this.button7.Margin = new System.Windows.Forms.Padding(4);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(113, 79);
+            this.button7.TabIndex = 14;
+            this.button7.Text = "Reporte Arbitros\r\n";
+            this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // Reportes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(659, 570);
+            this.ClientSize = new System.Drawing.Size(658, 507);
+            this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -256,5 +270,6 @@ namespace Administracion_Torneos.Vista
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
     }
 }
